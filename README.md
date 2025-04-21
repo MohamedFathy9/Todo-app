@@ -1,27 +1,27 @@
-# ServicesDeepDive
+# Quick Tasks - Task Management Web App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+Quick Tasks is a task management web application built using **Angular**. The app allows users to manage their tasks by adding new tasks, changing their status, and filtering tasks based on their status. It is designed to be simple and intuitive, helping users stay organized and productive.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Add Tasks**: Users can easily add new tasks to their task list.
+- **Change Task Status**: Users can update the status of tasks, with available states like:
+  - **Open**
+  - **In Progress**
+  - **Completed**
+- **Task Filtering**: Filter tasks based on their status (Open, In Progress, or Completed) to quickly focus on the relevant tasks.
+- **Responsive Design**: The app is built to be fully responsive, providing a smooth user experience on desktop and mobile devices.
 
-## Code scaffolding
+## Technologies Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular**: The app is built using Angular 18.0.0 for seamless interaction and dynamic content rendering.
+- **HTML & CSS**: Used for structuring and styling the application.
 
-## Build
+## Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To run the project locally, follow these steps:
 
-## Running unit tests
+1. **Clone the repository:**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   ```bash
+   git clone https://github.com/MohamedFathy9/Todo-app.git
